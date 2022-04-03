@@ -78,7 +78,7 @@ void main()
   
   float ans;
   
-  printf("K.M.
+  printf("K.M. : "):
   
   scanf("%f",&km);
   
