@@ -20,7 +20,7 @@ void main()
    float c,f;
    printf("Enter the temperature in Celcius: ");
    scanf("%f", &c);
-   f = c 9/5 + 32;
+   f = c*9/5 + 32;
    printf("Temperature in Farenheit: %f", f);
 }
 
@@ -35,7 +35,7 @@ void main()
     float c, f;
     scanf("%f",&f);
     printf("Farenheit : "); 
-    c = (f 32) 5/9; 
+    c = (f 32)*5/9; 
     printf("Celcius: %f",c);
 }
 
